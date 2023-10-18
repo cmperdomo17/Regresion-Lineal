@@ -1,0 +1,3 @@
+PARCIAL:
+
+Regresion, tablas bidimensionales y analisis de varianza
