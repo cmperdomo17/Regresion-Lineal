@@ -1,4 +1,0 @@
-Covarianza: Medida de dependencia lineal entre variables x, y
-
-Se denota por Sxy y la expresion muestral dada por: 
-                        Sxy = sumatoria de (xi - x)(yi - y)
